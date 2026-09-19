@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Star Wave Radio 104.4 FM",
+    "slug": "star-wave-radio-1044",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "starwaveradio",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "package": "com.starwaveradio.radio1044"
+    }
+  }
+}
